@@ -1,0 +1,16 @@
+body {
+    font-family: 'EB Garamond', serif;
+    letter-spacing: 0.5px;
+    /*font-family: 'Barlow Semi Condensed', sans-serif;*/
+}
+
+#ScarletNoir {
+    background-color:#d7d7d7;
+    color:#2E112D
+}
+
+.big-title {
+    font-size: 5rem;
+    font-family: 'Parisienne', cursive;
+    letter-spacing: normal;
+}
