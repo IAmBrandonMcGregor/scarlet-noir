@@ -1,0 +1,10 @@
+{
+  "name": "scarlet-noir",
+  "version": "0.1.0",
+  "description": "Contains web content for Scarlet Noir",
+  "main": "main.js",
+  "repository": "https://github.com/IAmBrandonMcGregor/scarlet-noir.git",
+  "author": "Brandon McGregor <iambrandonmcgregor@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
